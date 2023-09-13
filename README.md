@@ -48,14 +48,11 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepk2891&show_icons=true&theme=tokyonight" width="450"/>
-</a>
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepk2891&langs_count=8&layout=compact&theme=tokyonight" width="340"/>
-</a>
-<br><br>
-<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&&theme=tokyonight" alt="deepk2891" width="450"/></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepk2891" width="340"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepk2891&show_icons=true&locale=en&theme=tokyonight" alt="deepk2891"  width="450"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&&theme=tokyonight" alt="deepk2891" width="450"/></p>
 
 ---
 
