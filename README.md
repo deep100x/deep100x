@@ -1,30 +1,29 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/deepk2891)
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
+<h3 align="center"></h3>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepk2891&label=Profile%20views&color=0e75b6&style=flat" alt="deepk2891" /> </p>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>-->
-
-<!--<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /> </p>-->
+<p align="left"> <a href="https://twitter.com/deepkothari" target="blank"><img src="https://img.shields.io/twitter/follow/deepkothari?logo=twitter&style=for-the-badge" alt="deepkothari" /> </p>
 
 - 🔭 I’m currently working on **Web designing and development**
-
-- 🌱 I’m currently learning **JavaScript**
-
+- 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **WebDesign Dev, MEARN**
-
+- 👨‍💻 My portfolio is available at https://deepk2891.github.io/DeepKothari.me/
 - 📫 How to reach me **deepk2891@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-kothari" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepkothari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepkothari" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepkothari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepkothari" height="30" width="40" /></a>
 </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,13 +46,22 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepk2891" /></p>
+### 🔥 &nbsp; My Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepk2891&show_icons=true&locale=en&theme=tokyonight" alt="deepk2891" /></p>
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&&theme=tokyonight" alt="deepk2891" /></p>-->
+<a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepk2891&show_icons=true&theme=tokyonight" width="450"/>
+</a>
+<a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepk2891&langs_count=8&layout=compact&theme=tokyonight" width="340"/>
+</a>
+<br><br>
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&&theme=tokyonight" alt="deepk2891" width="450"/></a>
 
-<p align="center">
-    <a href="https://www.github.com/deepk2891" target="_blank" rel="noreferrer">
-     <img src="https://img.shields.io/github/followers/deepk2891?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
+---
+
+### Show some ❤️ by starring some of the repositories!
+
+
+
+
+
