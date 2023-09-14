@@ -1,4 +1,4 @@
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
@@ -50,11 +50,12 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepk2891" width="340"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepk2891&show_icons=true&locale=en&theme=tokyonight" alt="deepk2891"  width="450"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&&theme=tokyonight" alt="deepk2891" width="450"/></p>
+<a href="https://github.com/deepk2891">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+</a>   
+<a href="https://github.com/deepk2891">
+  <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
 
 ---
 
