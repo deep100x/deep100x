@@ -1,15 +1,17 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer"</p> 
 <h3 align="center"></h3>
+    
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400">
+
 
 <a href="https://github.com/deep2891/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deepk2891&style=for-the-badge">
 </a>
 
-<p align="left"> <a href="https://twitter.com/deepkothari" target="blank"><img src="https://img.shields.io/twitter/follow/deepkothari?logo=twitter&style=for-the-badge" alt="deepkothari" /> </p>
+<h3></h3>
+
+
 
 - 🔭 I’m currently working on **Web designing and development**
 - 🌱 I’m currently learning **MERN stack**
@@ -17,6 +19,7 @@
 - 📫 How to reach me **deepk2891@gmail.com**
 
 
+<!--
 ###  Connect with me
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepkothari" height="30" width="40" /></a>
@@ -24,7 +27,7 @@
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepkothari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepkothari" height="30" width="40" /></a>
 </p>
-
+-->
 
 ### 🛠 &nbsp;Tech Stack
 
