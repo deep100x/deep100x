@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about **WebDesign Dev, MEARN**
 - 📫 How to reach me **deepk2891@gmail.com**
+- 📄 Please have a look at my <a href="https://drive.google.com/drive/folders/1UQBoTL1ulxbpWB_Ck3JG8omtrLzScVmY">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 
 
 <!--
