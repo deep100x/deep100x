@@ -57,9 +57,9 @@
 <a href="https://github.com/deepk2891">
   <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
 </a> 
-<a href="https://github.com/deepk2891">
+<!-- <a href="https://github.com/deepk2891">
   <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+</a> -->
 
 
 ### Show some ❤️ by starring some of the repositories!
