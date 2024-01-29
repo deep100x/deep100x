@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer"</p> 
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=2d7e5e&vCenter=true&center=true&width=460&lines=🚀full-stack+web+developer"</p> 
 <h3 align="center"></h3>
     
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400">
@@ -19,16 +19,6 @@
 - 📫 How to reach me **deepk2891@gmail.com**
 - 📄 Please have a look at my <a href="https://drive.google.com/drive/folders/1UQBoTL1ulxbpWB_Ck3JG8omtrLzScVmY">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 
-
-<!--
-###  Connect with me
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepkothari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepkothari" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepkothari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepkothari" height="30" width="40" /></a>
-</p>
--->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -57,9 +47,9 @@
 <a href="https://github.com/deepk2891">
   <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
 </a> 
-<!-- <a href="https://github.com/deepk2891">
+<a href="https://github.com/deepk2891">
   <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
-</a> -->
+</a> 
 
 
 ### Show some ❤️ by starring some of the repositories!
