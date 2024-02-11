@@ -43,15 +43,15 @@
 ### 🚀 Live Projects :
 
 <a target="_blank" href="https://deepkothari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
-<a target="_blank" href="https://github.com/deepk2891/JavaScript"><img src="https://img.shields.io/badge/JavaScript-Projects-yellow?style=for-the-badge&logo=javascript"/></a>
+<a target="_blank" href="https://deepk2891.github.io/JavaScript/"><img src="https://img.shields.io/badge/JavaScript-Projects-yellow?style=for-the-badge&logo=javascript"/></a>
 <a target="_blank" href="https://masters-in-reactjs.vercel.app/"><img src="https://img.shields.io/badge/Masters%20In-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
 <a target="_blank" href="https://nike-app-tailwindcss.vercel.app/"><img src="https://img.shields.io/badge/Nike%20Website-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
 <a target="_blank" href="https://deepk2891.github.io/DeepKothari.me/"><img src="https://img.shields.io/badge/Portfolio-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/></a>
 <a target="_blank" href="https://deepk2891.github.io/Admin-panel-1-CSS3/"><img src="https://img.shields.io/badge/Admin%20Dashboard-CSS3-blue?style=for-the-badge&logo=css3"/></a>
 <a target="_blank" href="https://deepk2891.github.io/Coffee-king-website/"><img src="https://img.shields.io/badge/Coffee%20King-CSS3-blue?style=for-the-badge&logo=css3"/></a>
-<a target="_blank" href="https://deepk2891.github.io/harley-davidson.com/"><img src="https://img.shields.io/badge/Harley%20Davidsons-HTML5-orange?style=for-the-badge&logo=html5"/></a>
+<a target="_blank" href="https://deepk2891.github.io/buywow.in/"><img src="https://img.shields.io/badge/Buywow.in%20clone-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/></a>
 <a target="_blank" href="https://deepk2891.github.io/ray-ban.com/"><img src="https://img.shields.io/badge/Rayban%20Eyewear-HTML5-orange?style=for-the-badge&logo=html5"/></a>
-<a target="_blank" href="https://deepk2891.github.io/buywow.in/"><img src="https://img.shields.io/badge/Buywow.in%20clone-HTML5-orange?style=for-the-badge&logo=html5"/></a>
+<a target="_blank" href="https://deepk2891.github.io/harley-davidson.com/"><img src="https://img.shields.io/badge/Harley%20Davidsons-HTML5-orange?style=for-the-badge&logo=html5"/></a>
 
 ### 🔥 &nbsp; My Stats :
 
