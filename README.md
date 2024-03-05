@@ -42,8 +42,8 @@
 
 ### 🚀 Live Projects :
 
-<a target="_blank" href="https://dishdeals.vercel.app"><img src="https://img.shields.io/badge/Dish Deals-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
 <a target="_blank" href="https://deepkothari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
+<a target="_blank" href="https://dishdeals.vercel.app"><img src="https://img.shields.io/badge/Dish Deals-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
 <a target="_blank" href="https://deepk2891.github.io/JavaScript/"><img src="https://img.shields.io/badge/JavaScript-Projects-yellow?style=for-the-badge&logo=javascript"/></a>
 <a target="_blank" href="https://masters-in-reactjs.vercel.app/"><img src="https://img.shields.io/badge/Masters%20In-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
 <a target="_blank" href="https://nike-app-tailwindcss.vercel.app/"><img src="https://img.shields.io/badge/Nike%20Website-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
