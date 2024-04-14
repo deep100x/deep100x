@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=2d7e5e&vCenter=true&center=true&width=460&lines=🚀full-stack+web+developer"</p> 
+<!-- <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=2d7e5e&vCenter=true&center=true&width=460&lines=🚀full-stack+web+developer"</p>  -->
 <h3 align="center"></h3>
     
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400">
