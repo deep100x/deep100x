@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Deep Kothari</h1>
 <!-- <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=2d7e5e&vCenter=true&center=true&width=460&lines=🚀full-stack+web+developer"</p>  -->
 <h3 align="center"></h3>
@@ -6,8 +5,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="400" height="255">
 <br>
 
-<a href="https://github.com/deep2891/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=deepk2891&style=for-the-badge">
+<a href="https://github.com/deep100x/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=deep100x&style=for-the-badge">
 </a>
 
 <h3></h3>
@@ -15,10 +14,10 @@
 -   🔭 I’m currently working on **Web designing and development**
 -   🌱 I’m currently learning **MERN stack**
 -   💬 Ask me about **WebDesign Dev, MEARN**
--   📫 How to reach me **https://deepkothari.vercel.app**
-
+-   📫 How to reach me **https://deep100x.vercel.app**
 
 ### 🛠 &nbsp;Tech Stack
+
 <!--
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://deepkothari.vercel.app/)
@@ -43,7 +42,6 @@
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,nextjs,react,redux,git,github,js,java,jquery,ai,nodejs,mongodb,express,vscode,eclipse,notion,postman,vite,babel,netlify,vercel,npm,yarn,)](https://skillicons.dev)
-
 
 <!--
 <div style="display:flex;">
@@ -75,7 +73,7 @@
 -->
 
   <!-- <img height="50px" src="" /> -->
-
+  <!--
 ### 🚀 Live Projects :
 
 <a target="_blank" href="https://deepkothari.vercel.app"><img src="https://img.shields.io/badge/Portfolio-React%20Tailwind-blue?style=for-the-badge&logo=react"/></a>
@@ -89,14 +87,15 @@
 <a target="_blank" href="https://deepk2891.github.io/buywow.in/"><img src="https://img.shields.io/badge/Buywow.in%20clone-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/></a>
 <a target="_blank" href="https://deepk2891.github.io/ray-ban.com/"><img src="https://img.shields.io/badge/Rayban%20Eyewear-HTML5-orange?style=for-the-badge&logo=html5"/></a>
 <a target="_blank" href="https://deepk2891.github.io/harley-davidson.com/"><img src="https://img.shields.io/badge/Harley%20Davidsons-HTML5-orange?style=for-the-badge&logo=html5"/></a>
+-->
 
 ### 🔥 &nbsp; My Stats :
 
-<a href="https://github.com/deepk2891">
-  <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+<a href="https://github.com/deep100x">
+  <img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep100x&layout=compact&langs_count=8&theme=tokyonight" />
 </a> 
-<a href="https://github.com/deepk2891">
-  <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+<a href="https://github.com/deep100x">
+  <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=deep100x&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
-
-### Show some ❤️ by starring some of the repositories!
+  <!--
+### Show some ❤️ by starring some of the repositories!-->
